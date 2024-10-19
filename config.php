@@ -3,7 +3,7 @@
 define('APPLICATION', 'Catalog');
 
 // HTTP
-define('HTTP_SERVER', 'http://localhost/tmarket/');
+define('HTTP_SERVER', 'https://sitinadya21.github.io/tmarket/');
 
 // DIR
 define('DIR_OPENCART', 'C:/xampp/htdocs/tmarket/');
